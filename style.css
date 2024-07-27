@@ -1,0 +1,35 @@
+ header {
+        height: 100px;
+        background-color: #19242f;
+        color: #ff4043;
+        text-align: center;
+        padding: 10px 0;
+    }
+    .sidebar {
+        min-height: calc(100vh- 100px- 50px);
+        box-sizing: border-box;
+        float: left;
+        width: 25%;
+        background-color: #1c2a39;
+        color: #ff4043;
+        padding: 15px;
+        box-sizing: border-box;
+    }
+    .main-content {
+        min-height: calc(100vh- 100px- 50px);
+        box-sizing: border-box;
+        float: left;
+        width: 75%;
+        background-color: #f1f1f1;
+        color: #000;
+        padding: 15px;
+    }
+    footer {
+        width: 100%;
+        float: left;
+        background-color: #19242f;
+        color: #ff4043;
+        text-align: center;
+        padding: 15px 0;
+        height: 50px;
+    }

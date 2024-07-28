@@ -6,7 +6,7 @@
         padding: 10px 0;
     }
     .sidebar {
-        min-height: calc(100vh - 100px - 50px);/*só dei um espaço entre os sinais de operação e os valores, estava assim (100vh- 100px) por isso não ia :)*/
+        min-height: calc(100vh - 100px - 50px);
         box-sizing: border-box;
         float: left;
         width: 25%;
